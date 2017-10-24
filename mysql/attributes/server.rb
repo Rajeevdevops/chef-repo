@@ -12,3 +12,4 @@ default['mysql']['server']['directories']['confd_dir'] = '/etc/mysql/conf.d'
 default['mysql']['server']['service_name'] = 'mysqld'
 default['mysql']['server_root_password'] = 'rootpass'
 # For further information, see the Chef documentation (https://docs.chef.io/essentials_cookbook_attribute_files.html).
+
